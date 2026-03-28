@@ -15,7 +15,7 @@ AI-powered resume builder landing page built with Next.js and Tailwind CSS.
 - Tailwind CSS
 
 ## 📸 Preview
-(Add screenshots here)
+
 
 ## 🚀 Getting Started
 
